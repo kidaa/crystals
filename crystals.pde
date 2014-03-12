@@ -8,7 +8,7 @@ color[][] colors = {{color(0, 150, 200), color(232, 79, 51)},
 // SETUP 
 void setup() {
   colorMode(RGB, 255);
-  size(800, 800);
+  size(1600, 1000);
   smooth();
 }
 
